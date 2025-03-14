@@ -18,7 +18,6 @@ public static class Program
 
         /* You can add this to a ServiceLocator/ServiceProvider. */
         IInjectionService injectionService = new Runtime.InjectionService();
-        injectionService.AddOrReplace<Character>("", null);
 
         /* Let's add the camera reference, we can just leave the id empty if we're going to use this as the default option. */
         var camera = new IsoCamera();
