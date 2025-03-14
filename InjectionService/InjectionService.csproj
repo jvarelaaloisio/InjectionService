@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <LangVersion>9</LangVersion>
+        <Nullable>disable</Nullable>
+        <AssemblyName>VarelaAloisio.InjectionService.Runtime</AssemblyName>
+        <RootNamespace>VarelaAloisio.InjectionService.Runtime</RootNamespace>
+        <Title>Injection</Title>
+        <Authors>https://github.com/jvarelaaloisio</Authors>
+        <PackageTags>DependencyInjection, Injection</PackageTags>
+    </PropertyGroup>
+
+</Project>
